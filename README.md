@@ -1,4 +1,4 @@
-# Unity Decorator Pattern Example
+# Unity Decorator Pattern 
 
 This Unity project demonstrates the use of the **Decorator** design pattern. The Decorator pattern allows you to dynamically add behaviors to objects by wrapping them in decorator classes.
 
